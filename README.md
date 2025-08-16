@@ -7,6 +7,12 @@
 - 📚 Currently learning more about backend (Node.js, Express, MongoDB) to become a Full-Stack Developer.
 - 🚀 I love creating projects, SPAs, and APIs, and I use GitHub to share my journey and progress.
 
+### My GitHub Stats:
+
+#### Concised
+
+[![Fariz's GitHub stats](https://github-readme-stats.vercel.app/api?username=farikkm)](https://github.com/farikkm/github-readme-stats)
+
 ### My goals:
 
 Contribute to open-source projects
@@ -14,12 +20,6 @@ Contribute to open-source projects
 Build real-world applications
 
 Level up my problem-solving & coding skills
-
-### My GitHub Stats:
-
-#### Concised
-
-[![Fariz's GitHub stats](https://github-readme-stats.vercel.app/api?username=farikkm)](https://github.com/farikkm/github-readme-stats)
 
 ### My Showcase Projects:
 
