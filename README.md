@@ -13,14 +13,6 @@
 
 [![Fariz's GitHub stats](https://github-readme-stats.vercel.app/api?username=farikkm)](https://github.com/farikkm/github-readme-stats)
 
-### My goals:
-
-Contribute to open-source projects
-
-Build real-world applications
-
-Level up my problem-solving & coding skills
-
 ### My Showcase Projects:
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=farikkm&repo=Notability&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farikkm/Notability.git)
