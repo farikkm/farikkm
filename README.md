@@ -2,11 +2,12 @@
 
 ### About Me:
 
-> Hi, I’m Fariz!
-> 💻 I’m a passionate Front-End Developer building web apps with React and Vanilla JS.
-> 📚 Currently learning more about backend (Node.js, Express, MongoDB) to become a Full-Stack Developer.
-> 🚀 I love creating projects, SPAs, and APIs, and I use GitHub to share my journey and progress.
-> 🎯 My goals:
+- Hi, I’m Fariz!
+- 💻 I’m a passionate Front-End Developer building web apps with React and Vanilla JS.
+- 📚 Currently learning more about backend (Node.js, Express, MongoDB) to become a Full-Stack Developer.
+- 🚀 I love creating projects, SPAs, and APIs, and I use GitHub to share my journey and progress.
+
+### My goals:
 
 Contribute to open-source projects
 
@@ -26,11 +27,11 @@ Level up my problem-solving & coding skills
 
 ### My Showcase Projects:
 
-[![Customized Card](https://notability.vercel.app/)](https://notability.vercel.app/)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=farikkm&repo=Notability&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farikkm/Notability.git)
 
-[![Customized Card](https://yes-express-kohl.vercel.app/)](https://yes-express-kohl.vercel.app/)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=farikkm&repo=yes.express&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farikkm/yes.express.git)
 
-[![Customized Card](http://95.47.125.157:9999/ru/)](http://95.47.125.157:9999/ru/)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=farikkm&repo=Family-Park-2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farikkm/Family-Park-2.git)
 
 ### Tools and Technologies I Use:
 
