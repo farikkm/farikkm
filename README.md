@@ -21,10 +21,6 @@ Level up my problem-solving & coding skills
 
 [![Fariz's GitHub stats](https://github-readme-stats.vercel.app/api?username=farikkm)](https://github.com/farikkm/github-readme-stats)
 
-### My Published Top Product:
-
-**[`Notability.app:`](https://notability.vercel.app/)** Notability **An application with fully authorization system that allows users to create Notes**
-
 ### My Showcase Projects:
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=farikkm&repo=Notability&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farikkm/Notability.git)
@@ -76,7 +72,6 @@ Level up my problem-solving & coding skills
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="git bash" title="Git Bash" width="75" height="50"/>
   <img src="https://upload.vectorlogo.zone/logos/microsoft_powershell/images/1ba9f345-6513-4bef-a85e-4636d21b98b7.svg" title="PowerShell" alt="PowerShell" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=60&id=fO5yVwARGUEB&format=png" alt="Chat GPT" width="50" title="Chat GPT" height="50"/>
-  <img src="https://img.icons8.com/?size=96&id=emezZ8DDFo8A&format=png" alt="Microsoft Copilot" title="Microsoft Copilot" width="50" height="50"/>
   <img src="https://cdn3.iconfinder.com/data/icons/it-and-user-interface/48/3-dots_icon-128.png" title="etc." alt="etc." width="50" height="50"/>
 </p>
 
