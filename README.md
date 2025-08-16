@@ -23,6 +23,10 @@
 
 ### Tools and Technologies I Use:
 
+#### Progress Bar
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 #### `Programming Languages:`
 
 <p align="left">
