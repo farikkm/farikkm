@@ -18,7 +18,7 @@ Level up my problem-solving & coding skills
 
 #### Concised
 
-[![Fariz's GitHub Stats]] Ongoing...
+[![Fariz's GitHub stats](https://github-readme-stats.vercel.app/api?username=farikkm)](https://github.com/farikkm/github-readme-stats)
 
 ### My Published Top Product:
 
