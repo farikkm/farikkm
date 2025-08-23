@@ -77,7 +77,7 @@ Let's connected and collaborating on exciting projects! Feel free to reach out f
 
 [**`Ask me here`**](https://github.com/orgs/community/discussions/169972)
 
-[![Personal Website](https://img.shields.io/badge/Website-farikkm.com-blue)](https://personal-website-ten-woad.vercel.app/)
+[![Personal Website](https://img.shields.io/badge/Website-farikkm.com-blue)](https://fariz-live.vercel.app)
 
 ### Support:
 
