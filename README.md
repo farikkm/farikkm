@@ -1,4 +1,4 @@
-## Hi there, I'm Fariz Mirzaev, the self-taught Frontend Developer and future Full-stack developer.
+## Hi there, I'm Fariz, the self-taught Frontend Developer and future Full-stack developer.
 
 ### About Me:
 
