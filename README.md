@@ -3,9 +3,7 @@
 ### About Me:
 
 - Hi, I’m Fariz!
-- 💻 I’m a passionate Front-End Developer building web apps with React and Vanilla JS.
-- 📚 Currently learning more about backend (Node.js, Express, MongoDB) to become a Full-Stack Developer.
-- 🚀 I love creating projects, SPAs, and APIs, and I use GitHub to share my journey and progress.
+- 💻 I’m a passionate Full-stack Developer building web apps with React and Next JS.
 
 ### My GitHub Stats:
 
