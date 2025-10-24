@@ -19,12 +19,6 @@
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=farikkm&repo=Family-Park-2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farikkm/Family-Park-2.git)
 
-#### `Programming Languages:`
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="" alt="JavaScript" width="50" height="50"/>
-</p>
-
 ### Connect with Me:
 
 Let's connected and collaborating on exciting projects! Feel free to reach out for collaboration, contributions, or just a tech chat.
