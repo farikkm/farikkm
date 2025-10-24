@@ -9,7 +9,7 @@
 
 #### Concised
 
-[![Fariz's GitHub stats](https://github-readme-stats.vercel.app/api?username=farikkm)](https://github.com/farikkm/github-readme-stats)
+[![Fariz's GitHub stats](https://github-readme-stats.vercel.app/api?username=farikkm&theme=dark)](https://github.com/farikkm/github-readme-stats)
 
 ### My Showcase Projects:
 
