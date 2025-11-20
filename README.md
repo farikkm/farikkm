@@ -1,4 +1,4 @@
-## Hi there, I'm Fariz, the self-taught Full-stack developer.
+## Hi there, I'm Fariz, the Full-stack developer.
 
 ### About Me:
 
